@@ -1,6 +1,6 @@
 # Lab Solution: IAM Policies and Roles
 
-**Student Name:** ___________________________  
+**Student Name:** Theo Boyesen
 **Date:** ___________________________  
 **Lab Completion Time:** ___________ minutes
 
